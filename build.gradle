@@ -1,5 +1,5 @@
 allprojects {
-    group 'circus.praqma' // Change group do something unique for you
+    group 'jan.circus.praqma' // Change group do something unique for you
     version '0.1-SNAPSHOT'
 
 
